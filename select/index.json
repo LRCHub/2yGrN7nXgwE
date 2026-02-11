@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "夕陽の上",
+  "base_artist": "Takaya Kawasaki",
+  "createdAt": "2026-02-11T07:32:41.946037Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夕陽の上 - Yuuhinoue",
+      "artist": "Takaya Kawasaki",
+      "has_synced": true,
+      "path": "select/01_夕陽の上_-_Yuuhinoue_Takaya_Kawasaki.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "夕陽の上",
+      "artist": "川崎鷹也",
+      "has_synced": true,
+      "path": "select/02_夕陽の上_川崎鷹也.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "夕陽の上",
+      "artist": "川崎鹰也",
+      "has_synced": true,
+      "path": "select/03_夕陽の上_川崎鹰也.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "夕陽の上",
+      "artist": "Takaya Kawasaki",
+      "has_synced": true,
+      "path": "select/04_夕陽の上_Takaya_Kawasaki.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夕陽の上",
+      "artist": "川崎 鷹也",
+      "has_synced": false,
+      "path": "select/pl_01_夕陽の上_川崎_鷹也.txt"
+    }
+  ]
+}
